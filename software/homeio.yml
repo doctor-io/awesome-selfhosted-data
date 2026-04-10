@@ -1,0 +1,11 @@
+name: "Homeio"
+website_url: "https://homeio.app/"
+source_code_url: "https://github.com/doctor-io/homeio"
+description: "Desktop-style home server manager with app store, terminal, file manager and real-time system metrics. Compatible with CasaOS app store archives. (alternative to CasaOS, Umbrel)"
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Server Management
